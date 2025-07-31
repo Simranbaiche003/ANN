@@ -44,7 +44,7 @@ A **Neuron** receives multiple inputs, multiplies them by weights, sums them, an
 2. **Activation Function:**  
    Determines if the neuron is activated or not.
 
-![Neuron Diagram](images/neutron .jpeg)
+images/neutron .jpeg
 
 ---
 
