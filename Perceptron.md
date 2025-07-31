@@ -6,7 +6,7 @@ A **Perceptron** is the basic computational unit of an Artificial Neural Network
 - A perceptron creates a **linear decision boundary** to separate data points.  
 - This makes it a **linear classifier**.
 
-![Perceptron Diagram](images/perceptron.jpeg)
+
 
 **Advantages:**  
 - Solves **binary classification** problems efficiently.  
